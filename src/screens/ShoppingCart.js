@@ -36,7 +36,7 @@ const ShoppingCart = () => {
         ListFooterComponent={ShoppingCartTotals}
       />
       <Pressable style={styles.button}>
-        <Text style={styles.buttonText}>Add to cart</Text>
+        <Text style={styles.buttonText}>Checkout</Text>
       </Pressable>
     </>
   );
